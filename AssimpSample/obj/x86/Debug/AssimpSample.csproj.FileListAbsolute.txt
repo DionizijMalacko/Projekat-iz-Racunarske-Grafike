@@ -1,0 +1,97 @@
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\3D Models\A380.obj
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\Dependencies\SharpGL.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\Dependencies\SharpGL.SceneGraph.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\Dependencies\SharpGL.WPF.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\Assimp32.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\Assimp64.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Steva\Desktop\grafika\deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Dependencies\SharpGL.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Dependencies\SharpGL.SceneGraph.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Dependencies\SharpGL.WPF.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Assimp32.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Assimp64.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Textures\beton.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\Textures\trava.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\piper_pa18.mtl
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\piper_pa18.obj
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\piper_bump.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\piper_diffuse.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\piper_refl.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\uploads_files_800322_Hawk_T2.obj
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\Bumpmap.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\Diffuse.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\Dirty.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\Emissive.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\Specular.jpg
+C:\Users\Steva\Desktop\grafika\!deni\AssimpSample\AssimpSample\bin\Debug\3D Models\Hawk_T2.mtl
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\piper_pa18.mtl
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\piper_pa18.obj
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\Hawk_T2.mtl
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\uploads_files_800322_Hawk_T2.obj
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Dependencies\SharpGL.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Dependencies\SharpGL.SceneGraph.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Dependencies\SharpGL.WPF.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Assimp32.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Assimp64.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Textures\beton.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\Textures\trava.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\piper_bump.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\piper_diffuse.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\piper_refl.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\Bumpmap.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\Diffuse.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\Dirty.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\Emissive.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\3D Models\Specular.jpg
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\dioni\OneDrive\Desktop\PF1S13.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
